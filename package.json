@@ -1,0 +1,23 @@
+{
+  "name": "googelformclone",
+  "version": "1.0.0",
+  "description": "its a simple clone of google form using nodejs express",
+  "main": "server.js",
+  "scripts": {
+    "test": "wow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spac3-cowboy/googleFormClone.git"
+  },
+  "author": "Space Cowboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spac3-cowboy/googleFormClone/issues"
+  },
+  "homepage": "https://github.com/spac3-cowboy/googleFormClone#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
